@@ -7,11 +7,11 @@
 ---
 
 🎯 I’m a passionate **Full-Stack Developer**, researcher, and creative engineer with skills in:
-- **Flutter + Firebase** for mobile/web apps
-- **React + Redux** for modern frontend development
-- **Node.js + MongoDB** for scalable backends
-- **Image Processing & Signal Processing** with **MATLAB & Python**
-- **AI/ML, Computer Vision**, and **Data Science**
+- **Flutter + Firebase** for mobile/web apps  
+- **React + Redux** for modern frontend development  
+- **Node.js + MongoDB** for scalable backends  
+- **Image Processing & Signal Processing** with **MATLAB & Python**  
+- **AI/ML, Computer Vision**, and **Data Science**  
 - Creating VR/AR and cinematic content using **Unreal Engine** and **Blender**
 
 ---
@@ -26,20 +26,3 @@
 🧪 MATLAB:         App Designer, Signal Processing, Image Analysis
 🎮 Creative Tech:  Unreal Engine, Blender, DaVinci Resolve
 🧰 Tools & DevOps: GitHub, Vercel, Postman, Git CLI
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirazadehranajbar&show_icons=true&theme=radical&hide_border=true" alt="Amir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirazadehranajbar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirazadehranajbar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
