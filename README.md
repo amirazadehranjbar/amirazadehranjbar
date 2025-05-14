@@ -1,4 +1,7 @@
-![Amir Azadeh Ranjbar Banner](https://raw.githubusercontent.com/amirazadehranjbar/amirazadehranjbar/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirazadehranjbar/amirazadehranjbar/main/banner.png" alt="Amir Azadeh Ranjbar Banner" style="border-radius: 12px;" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Amir Azadeh Ranjbar</h1>
 <h3 align="center">Full-Stack Developer | AI/ML & Computer Vision Researcher | Unreal & VR Creator</h3>
