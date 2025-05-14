@@ -26,3 +26,12 @@
 🧪 MATLAB:         App Designer, Signal Processing, Image Analysis
 🎮 Creative Tech:  Unreal Engine, Blender, DaVinci Resolve
 🧰 Tools & DevOps: GitHub, Vercel, Postman, Git CLI
+
+---
+## 📊 GitHub Stats
+
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirazadehranjbar&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amirazadehranjbar&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirazadehranjbar&layout=compact&theme=radical&hide_border=true)
