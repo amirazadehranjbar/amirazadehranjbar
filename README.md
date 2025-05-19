@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amirazadehranjbar/amirazadehranjbar/main/banner.png" alt="Amir Azadeh Ranjbar Banner" style="border-radius: 24px" />
+  <img src="https://raw.githubusercontent.com/amirazadehranjbar/amirazadehranjbar/main/banner.png" alt="Amir Azadeh Ranjbar Banner" />
 </p>
 
 
